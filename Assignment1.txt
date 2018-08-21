@@ -1,0 +1,20 @@
+8/20/18 - Advanced C#
+
+Clone - The Clone command copies an existing Git repository. The cloned copy has it's own history, manages it's own files,
+and is a completely isolated environment from the original repository.
+
+Commit - A commit, or "revision", is an individual change to a file. A unique ID is created that allows you to keep record
+of what changes were made when and by who.
+
+Fetch - Fetch is a primary command used to download contents from a remote repository.
+
+Pull - Pull incorporates changes from a remote repository into the current branch.
+
+Push - Pushing refers to sending your commited changes to a remote repository.
+
+
+Repository - A digital directory of your project, it's files and all versions of it that Git saves.
+
+
+Vistual Studio TFS - Team Foundation Server(TFS) is a Microsoft product that provies source code management either
+with Team Foundation Version Control or Git.
